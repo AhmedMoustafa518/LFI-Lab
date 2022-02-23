@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="LFI Lab&nbsp;​by LinuxSploit, Key Features">
+    <meta name="keywords" content="LFI Lab&nbsp;​by FL45H_8, Key Features">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Home</title>
@@ -36,7 +36,7 @@
         <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="716" data-image-height="716">
           <img src="images/circle-cropped2.png" class="u-logo-image u-logo-image-1" data-image-width="90">
         </a>
-        <h1 class="u-align-left u-text u-title u-text-1">LFI Lab&nbsp;<span style="font-size: 0.9375rem;"> by LinuxSploit</span>
+        <h1 class="u-align-left u-text u-title u-text-1">LFI Lab&nbsp;<span style="font-size: 0.9375rem;"> by FL45H_8</span>
         </h1>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
