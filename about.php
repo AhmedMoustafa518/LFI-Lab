@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="LFI Lab&nbsp;​by LinuxSploit, LinuxSploit, LinuxSploit, Key Features">
+    <meta name="keywords" content="LFI Lab&nbsp;​by FL45H_8, FL45H_8, FL45H_8, Key Features">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>About</title>
@@ -36,7 +36,7 @@
         <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="716" data-image-height="716">
           <img src="images/circle-cropped2.png" class="u-logo-image u-logo-image-1" data-image-width="90">
         </a>
-        <h1 class="u-align-left u-text u-title u-text-1">LFI Lab&nbsp;<span style="font-size: 0.9375rem;"> by LinuxSploit</span>
+        <h1 class="u-align-left u-text u-title u-text-1">LFI Lab&nbsp;<span style="font-size: 0.9375rem;"> by FL45H_8</span>
         </h1>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
@@ -75,15 +75,15 @@
         <div class="u-active u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-1" src="" data-image-width="1534" data-image-height="1000">
           <div class="u-clearfix u-sheet u-sheet-1">
             <img src="images/circle-cropped2.png" alt="" class="u-image u-image-default u-preserve-proportions u-image-1" data-image-width="716" data-image-height="716">
-            <h1 class="u-text u-title u-text-1">LinuxSploit</h1>
-            <a href="https://www.youtube.com/linuxsploitofficial" class="u-border-2 u-border-white u-btn u-btn-round u-button-style u-hover-custom-color-1 u-radius-50 u-btn-1">Youtube</a>
+            <h1 class="u-text u-title u-text-1">FL45H_8</h1>
+            <a href="https://www.youtube.com/channel/UCZgRMOWSjBnXxrzqGRRRUKg" class="u-border-2 u-border-white u-btn u-btn-round u-button-style u-hover-custom-color-1 u-radius-50 u-btn-1">Youtube</a>
           </div>
         </div>
         <div class="u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-2" src="" data-image-width="1280" data-image-height="850">
           <div class="u-clearfix u-sheet u-sheet-1">
             <img src="images/circle-cropped2.png" alt="" class="u-image u-image-default u-preserve-proportions u-image-1" data-image-width="716" data-image-height="716">
-            <h1 class="u-text u-title u-text-1">LinuxSploit</h1>
-            <a href="https://web.facebook.com/LinuxSploitOfficial" class="u-border-1 u-border-white u-btn u-btn-round u-button-style u-hover-palette-1-dark-1 u-radius-48 u-radius-50 u-btn-1">Facebook</a>
+            <h1 class="u-text u-title u-text-1">FL45H_8</h1>
+            <a href="https://www.facebook.com/flash8888888" class="u-border-1 u-border-white u-btn u-btn-round u-button-style u-hover-palette-1-dark-1 u-radius-48 u-radius-50 u-btn-1">Facebook</a>
           </div>
         </div>
       </div>
